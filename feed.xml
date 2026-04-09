@@ -8,10 +8,35 @@
     <description>A personalized AI-generated podcast.</description>
     <language>en</language>
     <atom:link href="https://haowenluo.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
+    
+
+    <!-- Show artwork -->
+    <image>
+      <url>https://haowenluo.github.io/podcast-feed/cover-art.png</url>
+      <title>My Podcast</title>
+      <link>https://haowenluo.github.io/podcast-feed</link>
+    </image>
+    <itunes:image href="https://haowenluo.github.io/podcast-feed/cover-art.png"/>
+
+    <!-- Podcast player metadata -->
     <itunes:author>My Podcast</itunes:author>
     <itunes:summary>A personalized AI-generated podcast.</itunes:summary>
     <itunes:category text="Technology"/>
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
+
+    
+    <item>
+      <title>CEO Pay Slice: Power, Capability, and Performance</title>
+      <description>A discussion of four research hypotheses on CEO Pay Slice — exploring whether pay concentration reflects CEO power, capability, or both, and under what conditions it helps or hurts firm performance.</description>
+      <pubDate>Thu, 09 Apr 2026 01:57:44 GMT</pubDate>
+      <enclosure url="https://haowenluo.github.io/podcast-feed/episodes/2026-04-08-213539.mp3"
+                 length="9598058"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://haowenluo.github.io/podcast-feed/episodes/2026-04-08-213539.mp3</guid>
+      <itunes:duration>9:59</itunes:duration>
+      <itunes:summary>A discussion of four research hypotheses on CEO Pay Slice — exploring whether pay concentration reflects CEO power, capability, or both, and under what conditions it helps or hurts firm performance.</itunes:summary>
+    </item>
+    
   </channel>
 </rss>
