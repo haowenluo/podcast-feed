@@ -6,7 +6,7 @@
     <title>My Podcast</title>
     <link>https://haowenluo.github.io/podcast-feed</link>
     <description>A personalized AI-generated podcast.</description>
-    <language>en</language>
+    <language>zh</language>
     <atom:link href="https://haowenluo.github.io/podcast-feed/feed.xml" rel="self" type="application/rss+xml"/>
     
 
@@ -25,6 +25,18 @@
     <itunes:explicit>false</itunes:explicit>
     <itunes:type>episodic</itunes:type>
 
+    
+    <item>
+      <title>The Renminbi's Hardest Mile</title>
+      <description>Why turning the renminbi into a currency the world wants to hold — not just use — is the hardest of China's three currency internationalization climbs.</description>
+      <pubDate>Wed, 12 Aug 2026 00:21:05 GMT</pubDate>
+      <enclosure url="https://haowenluo.github.io/podcast-feed/episodes/2026-08-11-201642.mp3"
+                 length="6857918"
+                 type="audio/mpeg"/>
+      <guid isPermaLink="false">https://haowenluo.github.io/podcast-feed/episodes/2026-08-11-201642.mp3</guid>
+      <itunes:duration>7:08</itunes:duration>
+      <itunes:summary>Why turning the renminbi into a currency the world wants to hold — not just use — is the hardest of China's three currency internationalization climbs.</itunes:summary>
+    </item>
     
     <item>
       <title>MBA Presentation Paper</title>
